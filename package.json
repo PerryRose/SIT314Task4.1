@@ -1,0 +1,22 @@
+{
+  "name": "sit314",
+  "version": "1.0.0",
+  "description": "IoT Data Testing",
+  "main": "iotsensor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PerryRose/SIT314Task4.1.git"
+  },
+  "author": "Perry Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PerryRose/SIT314Task4.1/issues"
+  },
+  "homepage": "https://github.com/PerryRose/SIT314Task4.1#readme",
+  "dependencies": {
+    "mongoose": "^5.13.4"
+  }
+}
